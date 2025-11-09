@@ -19,12 +19,12 @@ It includes:
 
 ## 💡 Insights
 
-📈 **Key Takeaways**
+**Key Takeaways**
 - Financial, operational, and strategic features have the highest predictive power.  
 - **Ensemble models** (Random Forest, XGBoost) performed best.  
 - **Imbalanced data** handled using stratified sampling and class weights.  
 
-🧩 **Top Visuals**
+**Top Visuals**
 - `feature_importance_best.png` – Most influential factors  
 - `roc_curves_all.png` – Comparative ROC curves  
 - `model_comparison.png` – Overall model performance
