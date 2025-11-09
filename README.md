@@ -29,7 +29,7 @@ It includes:
 - `roc_curves_all.png` – Comparative ROC curves  
 - `model_comparison.png` – Overall model performance
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 ## ▶️ Run It Yourself
 
@@ -48,8 +48,9 @@ python main.py
 ### Prerequisites
 - Python 3.8+
 - Git
-
+```
 --------------------------------------------------------------------------------------------------------------------------------------------
+
 ## 👩‍💻 Author
 
 **MARIA ANTO J**  
@@ -57,3 +58,4 @@ python main.py
 
 🌐 [LinkedIn](https://www.linkedin.com/in/maria-anto-j-260092388)  
 🐙 [GitHub](https://github.com/AntoShades)
+
