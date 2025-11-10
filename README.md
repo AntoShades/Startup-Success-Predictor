@@ -35,8 +35,8 @@ It includes:
 
 ```bash
 # Clone this repository
-git clone https://github.com/AntoShades/startup-failure-prediction.git
-cd startup-failure-prediction
+git clone https://github.com/AntoShades/Startup-Success-Predictor-Using-Machine-Learning.git
+cd Startup-Success-Predictor-Using-Machine-Learning
 
 # Install dependencies
 pip install -r requirements.txt
